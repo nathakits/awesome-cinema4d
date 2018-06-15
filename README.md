@@ -2,7 +2,7 @@
     <h2>Awesome Cinema4D</h2>
     <p>Curating the best Cinema4D resources</p>
     <p>
-        <sub>Check out my website <a href="https://nathakits.com"></a> and follow me on <a href="https://twitter.com/nathakit_tan"></a>.</sub>
+        <sub>Check out my <a href="https://nathakits.com">website</a> and follow me on <a href="https://twitter.com/nathakit_tan">Twitter</a>.</sub>
     </p>
 </div>
 
