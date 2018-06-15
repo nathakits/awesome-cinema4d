@@ -18,7 +18,7 @@
     - [Cheatsheet](#cheatsheet)
     - [Tools](#tools)
     - [Assets](#assets)
-    - [Awesome people](#awesome-artists)
+    - [Awesome people](#awesome-people)
     - [Community](#community)
     - [Miscellaneous](#miscellaneous)
     - [Related lists](#related-lists)
