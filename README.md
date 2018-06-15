@@ -25,6 +25,12 @@
 
 ## Resources
 
+### Awesome People
+
+- [GMUNK](https://gmunk.com/)
+- [Ash Thorp](http://altcinc.com/)
+- [Beeple](https://www.beeple-crap.com)
+
 ### Tools
 
 - [JSplacement](https://windmillart.net/?p=jsplacement) - Cross-platform pseudo-random 8K displacement map generator written in HTML and JS.
