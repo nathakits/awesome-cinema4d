@@ -25,6 +25,10 @@
 
 ## Resources
 
+### Assets
+
+- [Darstellungsart](https://darstellungsart.com/) - 3D assets for sale
+
 ### Awesome People
 
 - [GMUNK](https://gmunk.com/)
